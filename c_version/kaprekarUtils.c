@@ -6,7 +6,7 @@
  * <p>This function tests whether the given input <code>n</code>
  * is a Kaprekar Number or not.  A Kaprekar Number is a non-negative
  * integer n whose square can be split into two positive integers 
- * whose sum is equal to the original number.  For the purposes of 
+ * whose sum is equal to the original number.  For the purposes of  Zachary
  * this method, we restrict our consideration to base-10 representations.</p>
  * 
  * For example, 45 is a Kaprekar number, because 
